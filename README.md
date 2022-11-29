@@ -1,5 +1,5 @@
 Mr. Giulio Vian is a multi-disciplinary software engineer with strong experience on production environments and extensive experience of enterprise contexts. Currently works at **Unum** helping teams in succeeding on their Digital Transformation initiatives.
-Speaker at international conferences, he was awarded Microsoft Most Valuable Professional on Azure DevOps category in the last five years.
+Speaker at international conferences, he was awarded Microsoft Most Valuable Professional on Azure DevOps category from 2016 to 2022.
 
 I keep a list of my public speaking engagements at http://blog.casavian.eu/page/public-speaking/ with links to slides and recordings.
 
